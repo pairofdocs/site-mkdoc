@@ -1,4 +1,4 @@
-# Welcome My Awesome Mod 🔥
+# Welcome To Awesome Mod 🔥
 
 For full documentation visit [github.com/ogjex](https://github.com/ogjex).
 

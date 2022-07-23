@@ -1,4 +1,4 @@
-site_name: My Awesome Mod Site
+site_name: Awesome Mod Site
 
 nav:
     - Home: index.md
@@ -6,6 +6,18 @@ nav:
 
 theme:
   name: material
+  palette: 
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
 
 repo_url: https://github.com/pairofdocs/site-mkdoc
 
