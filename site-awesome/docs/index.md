@@ -1,6 +1,6 @@
 # Welcome My Awesome Mod 🔥
 
-For full documentation visit [github.com/ogjex](github.com/ogjex).
+For full documentation visit [github.com/ogjex](https://github.com/ogjex).
 
 
 ## `Install`
@@ -15,3 +15,7 @@ For full documentation visit [github.com/ogjex](github.com/ogjex).
 - Skill Trees
 - Zones
 
+## Troubleshooting
+???+ question "Ask Here"
+
+    [https://discord.gg/here](https://discord.gg/here)
