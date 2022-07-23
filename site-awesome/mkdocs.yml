@@ -1,0 +1,8 @@
+site_name: My Awesome Mod Site
+
+nav:
+    - Home: index.md
+    - About: about.md
+
+theme:
+  name: material
