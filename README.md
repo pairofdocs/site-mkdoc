@@ -9,5 +9,5 @@ https://squidfunk.github.io/mkdocs-material/creating-your-site/#previewing-as-yo
 Hosted on Git pages:  
 https://pages.github.com/
 
-See the site:
-pairofdocs.github.io/site-mkdoc
+See the site:  
+[pairofdocs.github.io/site-mkdoc](https://pairofdocs.github.io/site-mkdoc/)
