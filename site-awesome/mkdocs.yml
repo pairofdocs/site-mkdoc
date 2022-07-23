@@ -21,6 +21,8 @@ theme:
 
 repo_url: https://github.com/pairofdocs/site-mkdoc
 
+edit_uri: edit/main/site-awesome/docs/
+
 markdown_extensions:
   - admonition
   - pymdownx.details
